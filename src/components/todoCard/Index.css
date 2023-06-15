@@ -21,7 +21,10 @@
     background: darkcyan;
 }
 
-.complitedCard {
+.true {
     background-color: lightseagreen;
 }
 
+.false {
+    background-color: rgb(178, 32, 134);
+}

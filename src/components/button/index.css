@@ -1,0 +1,16 @@
+.true {
+  background-color: lightseagreen;
+}
+
+.false {
+  background-color: rgb(178, 32, 134);
+}
+.Button {
+  margin-left: 20px;
+  border-radius: 12px;
+  cursor: pointer; 
+  background-color: white;
+}
+.Button:active {
+  background: darkcyan;
+}
